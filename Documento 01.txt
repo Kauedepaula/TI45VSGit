@@ -1,0 +1,50 @@
+Marcelo pro Cristiano
+Olha ihh ihh
+Olha o Cristiano
+Buffon desesperado
+Rolou pra trás
+Lucas Vázquez
+Buffooooooooooooon
+
+Cristiano de bicicleta
+Minha nossa, minha nossa
+Goooooooooooooooooool
+
+Receba
+Os aplausos
+Do torcedor rival
+Esta de pé
+O torcedor em Turim para aplaudir
+Para reverenciar essa máquina
+Esse monstro
+Esse jogador inexplicável
+Chamado
+Cristiano Ronaldo
+
+
+
+
+git init
+git config --global user.name ""
+git config --global user.email ""
+git config --list
+ 
+git clone http://github.com/TI45vsgit.git
+ 
+git remote add origin http://github.com/TI45vsgit.git
+git pull origin main
+ 
+git remote add origin http://github.com/TI45vsgit.git
+git add .
+git commite -m "mensagem da versão do seu programa"
+git push -u origin main
+ 
+git log 
+git log --oneline
+ 
+git checkout HEAD~1 (vai para o comite anterior) 
+git checkout main   (volta ao estado do ultimo comite)
+ 
+ 
+Definitivo (destrutivo)
+git reset --hard HEAD~1
